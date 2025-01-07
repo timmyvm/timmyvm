@@ -5,7 +5,7 @@
 Hi! My name is Timothy, and I am passionate about front-end development and building engaging user experiences. With a sharp eye for design and a passion for clean, efficient code, I specialise in creating seamless web applications and interactive interfaces. I thrive on making ideas a reality by combining creativity and technical expertise. Whether creating responsive websites, optimising performance, or researching the latest front-end technologies, I'm committed to providing high-quality solutions that exceed expectations. Explore my repositories to view some of my projects, and don't hesitate to contact me if you want to collaborate or have any queries. Let us work together to create something extraordinary!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-mota/)
-[![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://timothymota.com)
+[![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.timothymota.com/)
 
 
 ## :hammer: Here are the tools, libraries, technologies, and frameworks I've worked with:
